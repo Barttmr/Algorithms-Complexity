@@ -1,6 +1,10 @@
 Student: Bartlomiej Maraj X2874907-E
 
-Please take into consideration all the exercises were done alone and not in pairs.
+Week 1 - Introduction.
+Week 2 - Voracious Algorithm.
+Week 3 - Divide and Conquer.
+Week 4 - Dynamic Programming.
+Week 5 - Intensive Recursion, Backtracking.
 
 Explanations of each of the exercises are delivered in a pdf.
 
